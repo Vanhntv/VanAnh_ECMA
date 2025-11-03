@@ -56,6 +56,6 @@ function createBook(title, author, year, price) {
   };
 }
 
-const book = createBook("JavaScript cơ bản", "Nguyễn Văn A", 2023, 200000);
+const book = createBook("JavaScript cơ bản", "Ngô Thị Vân Anh", 2023, 200000);
 console.log(book.getBookInfo());
 console.log(book.calculateDiscount(10));

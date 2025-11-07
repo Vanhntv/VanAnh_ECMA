@@ -24,7 +24,7 @@ console.log(getRandomNumber());
 //* document.addEventListener("click", function () {
 //*   console.log("Clicked!");
 //* });
-// document.addEventListener("click", () => console.log("Clicked!"));
+document.addEventListener("click", () => console.log("Clicked!"));
 
 //? Bai 2:
 // Viết lại hàm sau sử dụng default parameters:
